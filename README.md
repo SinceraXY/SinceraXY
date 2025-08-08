@@ -34,7 +34,7 @@
 
 ### 🏢 Work Experience
 
-- [北京某科技有限公司](https:) &emsp; 📌 2026-06-30 —— 至今
+- [北京某科技有限公司](https:) &emsp; 📌 2025-06-30 —— 至今
 
   - 工作岗位：实习生
   - 工作内容：研发
@@ -44,7 +44,7 @@
   - 工作岗位：研究生
   - 工作内容：一些杂活
 
-- [生物能源组] &emsp; 📌 2023-02-20 —— 至今
+- 生物能源组  📌 2023-02-20 —— 至今
 
   - 工作岗位：本科生
   - 工作内容：一堆杂活
@@ -55,6 +55,7 @@
 
 <div align="center" >
 <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
   <div>&nbsp;</div>
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
