@@ -34,20 +34,20 @@
 
 ### 🏢 Work Experience
 
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— 2024-08-28
+- [北京某科技有限公司](https:) &emsp; 📌 2026-06-30 —— 至今
 
-  - 工作岗位：软件研发工程师
-  - 工作内容：软件开发与维护
+  - 工作岗位：实习生
+  - 工作内容：研发
 
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
+- [智慧能源系统与工程实验室](https://www.tuhuimap.com/) &emsp; 📌 2024-09-10 —— 至今
 
-  - 工作岗位：Web 前端开发工程师
+  - 工作岗位：研究生
   - 工作内容：一些杂活
 
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
+- [生物能源组] &emsp; 📌 2023-02-20 —— 至今
 
-  - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+  - 工作岗位：本科生
+  - 工作内容：一堆杂活
 
 </td></tr>
 
@@ -57,5 +57,4 @@
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-
 </div>
