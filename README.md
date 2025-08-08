@@ -54,7 +54,8 @@
 <tr><td>
 
 <div align="center" >
-
+<!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 </div>
