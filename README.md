@@ -44,7 +44,7 @@
   - 工作岗位：研究生
   - 工作内容：一些杂活
 
-- 生物能源组  📌 2023-02-20 —— 至今
+- 生物能源组   📌 2023-02-20 —— 至今
 
   - 工作岗位：本科生
   - 工作内容：一堆杂活
@@ -61,33 +61,28 @@
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinceraXY&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SinceraXY" /> </div>
-
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SinceraXY&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinceraXY" /> </div>
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <!-- 第一个图片 -->
+      <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinceraXY&hide_border=true" /> </div>
+      </td>
+      <!-- 第二个图片 -->
+      <td align="center">
+	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinceraXY&hide_border=true&layout=compact&langs_count=8&theme=graywhite" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <H2>Favorite❤️Movie</H2>
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_a.gif?raw=true"
-
-<details>
-    <summary>
-        <h3>Open Up</h3>
-    </summary>
-
-https://github.com/heartyang520/heartyang520/assets/51397676/31669bd8-ba37-4c64-8f64-3c40633c4072
-</details>
-
 <!--Line跑码线-->
 
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
-
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_b.gif?raw=true">
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/Vlog_c.gif?raw=true">
 <details>
     <summary>
         <h3>Open Up</h3>
     </summary>
 
-https://github.com/heartyang520/heartyang520/assets/51397676/cb332e70-b5f0-4162-b36b-820ca90d06f3
+https://github.com/heartyang520/heartyang520/assets/51397676/7227d8c5-2727-4cdf-8fb5-bfa494ff517e
