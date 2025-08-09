@@ -66,12 +66,11 @@
     <tr>
       <!-- 第一个图片 -->
       <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinceraXY&hide_border=true" /> </div>
-	  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SinceraXY&mode=weekly&card_width=404&card_height=188" alt="GitHub Streak" /></a>
+	  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SinceraXY&mode=weekly&card_width=465&card_height=197" alt="GitHub Streak" /></a>
       </td>
       <!-- 第二个图片 -->
       <td align="center">
-	    <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinceraXY&hide_border=true&layout=compact&langs_count=8&theme=graywhite" />
+	    <img height='197' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinceraXY&hide_border=true&layout=compact&langs_count=8&theme=graywhite" />
       </td>
     </tr>
   </table>
