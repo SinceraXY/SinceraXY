@@ -74,13 +74,6 @@
       <!-- 第二个图片 -->
       <td align="center">
 	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" />
-        <!-- <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
-      </td>
-    </tr>
-    <!-- 第三个图片 -->
-    <tr>
-      <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=bigorange18&theme=github-compact&hide_border=true&area=true" />
       </td>
     </tr>
   </table>
