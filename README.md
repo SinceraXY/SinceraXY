@@ -61,23 +61,36 @@
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 </div>
 
-
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <!-- 第一个图片 -->
+      <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinceraXY&hide_border=true" /> </div>
+	  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SinceraXY&mode=weekly&card_width=404&card_height=188" alt="GitHub Streak" /></a>
+      </td>
+      <!-- 第二个图片 -->
+      <td align="center">
+	    <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinceraXY&hide_border=true&layout=compact&langs_count=8&theme=graywhite" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <table style="width:100%;">
     <tr>
       <!-- 第一个图片 -->
       <td align="center">
-	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinceraXY&hide_border=true" /> </div>
+        <img height='200' src="https://github-readme-stats.vercel.app/api?username=SinceraXY&show_icons=true" />
       </td>
       <!-- 第二个图片 -->
       <td align="center">
-	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinceraXY&layout=compact&langs_count=8&theme=graywhite" />
+        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinceraXY&layout=compact" />
       </td>
     </tr>
   </table>
 </div>
-
 
 <H2>Favorite❤️Movie</H2>
 <!--Line跑码线-->
