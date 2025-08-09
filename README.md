@@ -72,7 +72,7 @@
       </td>
       <!-- 第二个图片 -->
       <td align="center">
-	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" />
+	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinceraXY&layout=compact&langs_count=8&theme=graywhite" />
       </td>
     </tr>
   </table>
