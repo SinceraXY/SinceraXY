@@ -61,9 +61,6 @@
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 </div>
 
-<!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
 <div align="center">
   <table style="width:100%;">
     <tr>
