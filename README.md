@@ -68,8 +68,7 @@
     <tr>
       <!-- 第一个图片 -->
       <td align="center">
-	  <img height='160' src="https://github-readme-stats.vercel.app/api?username=bigorange18&show_icons=true&theme=tokyonight" align="center" />
-       <!-- <img height='150' weight='100' src="https://github-readme-stats.vercel.app/api?username=bigorange18&hide_title=true&show_icons=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
+	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinceraXY&hide_border=true" /> </div>
       </td>
       <!-- 第二个图片 -->
       <td align="center">
