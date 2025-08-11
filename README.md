@@ -65,7 +65,7 @@
       </td>
       <!-- 第二个图片 -->
       <td align="center">
-	    <img height='197' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinceraXY&hide_border=true&layout=compact" />
+		<img height='197' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinceraXY&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff" /> </div>
       </td>
     </tr>
   </table>
